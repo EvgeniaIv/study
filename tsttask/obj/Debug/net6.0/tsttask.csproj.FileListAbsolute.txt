@@ -1,0 +1,15 @@
+C:\Users\79095\Desktop\си шарп\tsttask\obj\Debug\net6.0\tsttask.csproj.AssemblyReference.cache
+C:\Users\79095\Desktop\си шарп\tsttask\obj\Debug\net6.0\tsttask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79095\Desktop\си шарп\tsttask\obj\Debug\net6.0\tsttask.AssemblyInfoInputs.cache
+C:\Users\79095\Desktop\си шарп\tsttask\obj\Debug\net6.0\tsttask.AssemblyInfo.cs
+C:\Users\79095\Desktop\си шарп\tsttask\obj\Debug\net6.0\tsttask.csproj.CoreCompileInputs.cache
+C:\Users\79095\Desktop\си шарп\tsttask\bin\Debug\net6.0\tsttask.exe
+C:\Users\79095\Desktop\си шарп\tsttask\bin\Debug\net6.0\tsttask.deps.json
+C:\Users\79095\Desktop\си шарп\tsttask\bin\Debug\net6.0\tsttask.runtimeconfig.json
+C:\Users\79095\Desktop\си шарп\tsttask\bin\Debug\net6.0\tsttask.dll
+C:\Users\79095\Desktop\си шарп\tsttask\bin\Debug\net6.0\tsttask.pdb
+C:\Users\79095\Desktop\си шарп\tsttask\obj\Debug\net6.0\tsttask.dll
+C:\Users\79095\Desktop\си шарп\tsttask\obj\Debug\net6.0\refint\tsttask.dll
+C:\Users\79095\Desktop\си шарп\tsttask\obj\Debug\net6.0\tsttask.pdb
+C:\Users\79095\Desktop\си шарп\tsttask\obj\Debug\net6.0\tsttask.genruntimeconfig.cache
+C:\Users\79095\Desktop\си шарп\tsttask\obj\Debug\net6.0\ref\tsttask.dll
